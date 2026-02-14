@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import pdfplumber
 import pandas as pd
@@ -1961,4 +1961,3 @@ def main():
 # ===== EXECUTAR =====
 if __name__ == "__main__":
     main()
->>>>>>> 74b56f52fed5dc718f18dbfc6366e13273834131
