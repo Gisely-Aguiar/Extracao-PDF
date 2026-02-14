@@ -1375,7 +1375,6 @@ def main():
 # ===== EXECUTAR =====
 if __name__ == "__main__":
     main()
-=======
 import streamlit as st
 import pdfplumber
 import pandas as pd
